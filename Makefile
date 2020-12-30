@@ -12,6 +12,9 @@ day3-build:
 day3: day3-build
 	./day3/day3
 
+day4:
+	runhaskell day4/day4.hs
+
 fetch:
 	mkdir -p "day${DAY}" \
 	&& poetry run aocd $(DAY) 2020 > "day${DAY}/day${DAY}.txt"

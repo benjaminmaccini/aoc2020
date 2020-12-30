@@ -1,19 +1,19 @@
 I've decided to do my advent of code in 25 different languages (in no 
 particular order). This will be clunky, embarrassing, but ideally... enjoyable?
 
-Go (Done)
-Python (Done)
-C (Done)
+1 - Go (Done)
+2 - Python (Done)
+3 - C (Done)
+4 - Haskell
 R
 Rust
 Coffeescript
 Fortran
 PHP
 Perl
-Haskell
 BASH
 Lua
-Javascript
+Zig
 SQL
 D
 Ruby
