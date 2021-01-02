@@ -29,6 +29,10 @@ statically-typed langauges provide type inferencing (Haskell), and most dynamica
 langauges allow for type-hinting (which is important for documentation)
 
 ## Haskell
+
+http://dev.stephendiehl.com/hask/tutorial.pdf
+https://www.youtube.com/channel/UC3xdLFFsqG701QAyGJIPT1g
+
 Haskell is unlike anything I have ever done. It is strict and immediately difficult to read. Because it is a functional
 programming language it requires you to write everything in a functional manner, even IO. Coming from an imperative background
 this is especially tricky.

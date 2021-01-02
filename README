@@ -4,14 +4,14 @@ particular order). This will be clunky, embarrassing, but ideally... enjoyable?
 1 - Go (Done)
 2 - Python (Done)
 3 - C (Done)
-4 - Haskell
+4 - BASH
+5 - Haskell
 R
 Rust
 Coffeescript
 Fortran
 PHP
 Perl
-BASH
 Lua
 Zig
 SQL
@@ -20,7 +20,7 @@ Ruby
 Assembly
 Elixir
 Erlang
-Zig
+Elm
 Lisp 
 Pascal
 Brainfuck

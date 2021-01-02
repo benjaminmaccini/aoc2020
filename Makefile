@@ -1,4 +1,4 @@
-.PHONY: day1 day2 day3 day4
+.PHONY: day1 day2 day3 day4 day5
 
 day1:
 	go run day1/day1.go
@@ -13,7 +13,10 @@ day3: day3-build
 	./day3/day3
 
 day4:
-	runhaskell day4/day4.hs
+	./day4.sh
+
+day5:
+	runhaskell day5/day5.hs
 
 fetch:
 	mkdir -p "day${DAY}" \
