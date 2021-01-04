@@ -5,11 +5,12 @@ particular order). This will be clunky, embarrassing, but ideally... enjoyable?
 2 - Python (Done)
 3 - C (Done)
 4 - BASH
-5 - Haskell
+5 - Haskell (Done)
+11 - Juila
 R
 Rust
 Coffeescript
-Fortran
+Vyper
 PHP
 Perl
 Lua
@@ -23,6 +24,5 @@ Erlang
 Elm
 Lisp 
 Pascal
-Brainfuck
-Julia
 F#
+OCaml

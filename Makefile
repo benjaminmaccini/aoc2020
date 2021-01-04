@@ -1,4 +1,4 @@
-.PHONY: day1 day2 day3 day4 day5
+.PHONY: day1 day2 day3 day4 day5 day11
 
 day1:
 	go run day1/day1.go
@@ -17,6 +17,9 @@ day4:
 
 day5:
 	runhaskell day5/day5.hs
+
+day11:
+	julia day11/day11.jl
 
 fetch:
 	mkdir -p "day${DAY}" \
