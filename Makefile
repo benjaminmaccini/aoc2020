@@ -13,7 +13,7 @@ day3: day3-build
 	./day3/day3
 
 day4:
-	./day4.sh
+	bash day4/day4.sh
 
 day5:
 	runhaskell day5/day5.hs
