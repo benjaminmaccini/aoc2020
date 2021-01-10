@@ -4,8 +4,9 @@ particular order). This will be clunky, embarrassing, but ideally... enjoyable?
 1 - Go (Done)
 2 - Python (Done)
 3 - C (Done)
-4 - BASH
+4 - BASH (Done)
 5 - Haskell (Done)
+6 - Zig (Done)
 11 - Juila
 R
 Rust
@@ -14,7 +15,6 @@ Vyper
 PHP
 Perl
 Lua
-Zig
 SQL
 D
 Ruby
