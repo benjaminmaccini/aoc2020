@@ -1,4 +1,4 @@
-.PHONY: day1 day2 day3 day4 day5 day6 day11
+.PHONY: day1 day2 day3 day4 day5 day6 day7 day11
 
 day1:
 	go run day1/day1.go
@@ -20,6 +20,9 @@ day5:
 
 day6:
 	zig run day6/day6.zig
+
+day7:
+	cpanm --quiet Path::Tiny && perl day7/day7.pl
 
 day11:
 	julia day11/day11.jl

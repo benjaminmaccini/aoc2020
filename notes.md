@@ -10,16 +10,19 @@ to learn, how tricky it is to get started on my machine...
 
 A table perhaps?
 
-| Language | Scripting | Learning  (enough to complete the challenge)                  | Getting started | Tier |
-| ---      | ---       | ---                                                           | ---             | ---  |
-| Go       | 8         | 10 (lots of resources)                                        | 9               | S    |
-| Python   | 10        | 9 (too many resources)                                        | 10              | A    |
-| C        | 3         | 6 (I used a printed pamphlet lol)                             | 7               | B    |
-| Haskell  | 2 or 8    | 7 (wealth of resources, but have to REALLY learn it)          | depends         | S    |
-| Julia    | 10        | 10 (Base documentation is great)                              | 10              | A    |
-| BASH     | 10        | 8 (Everyone has their own flavor, sometimes competing)        | 8               | S    |
-| Zig      | 4         | 5 (There aren't all that many resources, can't google errors) | 5               | C    |
-|          |           |                                                               |                 |      |
+Note: Tier is completely subjective
+
+| Language | Scripting | Learning  (enough to complete the challenge)                    | Getting started | Tier |
+| ---      | ---       | ---                                                             | ---             | ---  |
+| Go       | 8         | 10 (lots of resources)                                          | 9               | S    |
+| Python   | 10        | 9 (too many resources)                                          | 10              | A    |
+| C        | 3         | 6 (I used a printed pamphlet lol)                               | 7               | B    |
+| Haskell  | 2 or 8    | 7 (wealth of resources, but have to REALLY learn it)            | depends         | S    |
+| Julia    | 8         | 9 (Base documentation is great)                                 | 10              | A    |
+| BASH     | 10        | 8 (Everyone has their own flavor, sometimes competing)          | 8               | B    |
+| Zig      | 4         | 5 (There aren't all that many resources, errors can be unclear) | 5               | C    |
+| Perl     | 10        | 10                                                              | 10              | A    |
+|          |           |                                                                 |                 |      |
 
 ## Quarter Thoughts
 
@@ -64,8 +67,8 @@ accessible.
 ## Haskell
 
 ### Resources
-http://dev.stephendiehl.com/hask/tutorial.pdf
-https://www.youtube.com/channel/UC3xdLFFsqG701QAyGJIPT1g
+- http://dev.stephendiehl.com/hask/tutorial.pdf
+- https://www.youtube.com/channel/UC3xdLFFsqG701QAyGJIPT1g
 
 ### Thoughts
 
@@ -111,3 +114,23 @@ TODO comments.
   
 Ultimately, most of my criticism is aimed at the language's infancy. Pretty excited to see an "upgraded" C and will definitely be looking at it more
 in the coming years, especially once the organizational side of the language matures more.
+
+## Perl
+
+### Resources
+- https://learn.perl.org/
+
+### Thoughts
+
+Readable, wealth of WELL WRITTEN resources. There is something about it (whether it's the fact it's not the de facto language to be
+taught in school, or it's had a strong community to build more centralized resources) but Perl really hits the documentation sweet
+spot. It's up there with Go on that.
+
+Solid scripting language, works well with shell commands. Provides a bit more type safety with certain values like arrays and hashmaps.
+And the error messages, wow, these are the most informative error messages I have ever seen. If Python didn't have such a rocking,
+third-party package ecosystem, I would use Perl more, for sure.
+
+Only downside is that syntactical sugar for array vs hash vs value vs reference can get a bit confusing, at least for me. Also,
+the way subroutines are defined don't force clear function signatures, which, without good documentation creates tricky to decipher functions.
+
+
