@@ -1,4 +1,4 @@
-.PHONY: day1 day2 day3 day4 day5 day6 day7 day11
+.PHONY: day1 day2 day3 day4 day5 day6 day7 day8
 
 day1:
 	go run day1/day1.go
@@ -24,9 +24,13 @@ day6:
 day7:
 	cpanm --quiet Path::Tiny && perl day7/day7.pl
 
+day8:
+	node day8/day8.js
+
 day11:
 	julia day11/day11.jl
 
+# TODO Broken
 # make fetch DAY=n
 fetch:
 	mkdir -p "day${DAY}" \

@@ -8,7 +8,7 @@ particular order). This will be clunky, embarrassing, but ideally... enjoyable?
 5 - Haskell (Done)
 6 - Zig (Done)
 7 - Perl (Done)
-8 - Javascript
+8 - Javascript (Done)
 9 - Coffeescript
 10 - Typescript
 11 - Juila
@@ -27,3 +27,5 @@ Lisp
 Pascal
 F#
 OCaml
+
+NOTE: This project is partially abandoned. See notes.md for working notes.
